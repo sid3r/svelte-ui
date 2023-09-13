@@ -2,6 +2,8 @@
 
 Everything you need to build a Svelte project
 
+![sveltikit-preview](static/preview.png)
+
 ## Clone this repository
 
 ```bash
